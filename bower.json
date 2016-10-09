@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-he",
+  "description": "The most comprehensive collection of stopwords for the hebrew language.",
+  "keywords": [
+    "hebrew",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-he",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-he.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
